@@ -31,5 +31,4 @@ blocks:
       jobs:
         - name: Checklist
           commands:
-            - cd sdlc
             - python manage.py check --deploy
